@@ -13,13 +13,13 @@
 ***
 
 [![HitCount](http://hits.dwyl.com/MadhavBahl/slides.svg)](http://hits.dwyl.com/MadhavBahl/slides) 
-![GitHub followers](https://img.shields.io/github/followers/MadhavBahl?label=Follow)
-![GitHub Repo stars](https://img.shields.io/github/stars/MadhavBahl/slides?style=Stars)
-![Twitter Follow](https://img.shields.io/twitter/follow/MadhavBahlMD)
+[![GitHub followers](https://img.shields.io/github/followers/MadhavBahl?label=Follow)](https://github.com/MadhavBahl)
+[![GitHub Repo stars](https://img.shields.io/github/stars/MadhavBahl/slides?style=Stars)](https://github.com/MadhavBahl)
 ![GitHub issues](https://img.shields.io/github/issues-raw/MadhavBahl/slides)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://madhavbahl.tech/ask/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MadhavBahlMD)](https://twitter.com/MadhavBahlMD)
 
 ## Table of contents
 
