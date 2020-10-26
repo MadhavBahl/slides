@@ -12,7 +12,7 @@
 
 ***
 
-[![HitCount](http://hits.dwyl.com/MadhavBahl/slides.svg)](http://hits.dwyl.com/MadhavBahl/slides) 
+![ViewCount](https://views.whatilearened.today/views/github/MadhavBahl/slides.svg)
 [![GitHub followers](https://img.shields.io/github/followers/MadhavBahl?label=Follow)](https://github.com/MadhavBahl)
 [![GitHub Repo stars](https://img.shields.io/github/stars/MadhavBahl/slides?style=Stars)](https://github.com/MadhavBahl)
 ![GitHub issues](https://img.shields.io/github/issues-raw/MadhavBahl/slides)
