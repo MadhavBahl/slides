@@ -8,7 +8,7 @@
     In this repository you can find my presentations from my talks, presentations, webinars and YouTube videos (Do give it a star if you like them)
 </p
 
-<a style="margin: 0" href="youtube.com/TheLeanProgrammer?sub_confirmation=1"><img src="./yt_flag.png" alt="YouTube: youtube.com/TheLeanProgrammer?sub_confirmation=1"></a>
+[![YouTube](./yt_flag.png)](https://youtube.com/TheLeanProgrammer?sub_confirmation=1)
 
 ***
 
