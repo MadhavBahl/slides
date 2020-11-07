@@ -30,3 +30,26 @@
 | 3      | How do I motivate myself to start competitive programming | [https://www.youtube.com/watch?v=GCxwzy9MaY8](https://www.youtube.com/watch?v=GCxwzy9MaY8) | [https://madhavbahl.tech/slides/3](https://madhavbahl.tech/slides/3) |
 | 4      | How do I get started with data structures, algorithms, problem solving and competitive programming | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 | 5      | 8 Simple tips to improve your GitHub profile | [https://www.youtube.com/watch?v=4LGF4UhMaSU](https://www.youtube.com/watch?v=4LGF4UhMaSU) | [https://madhavbahl.tech/slides/5/](https://madhavbahl.tech/slides/5/) |
+
+## Want to ask a question?
+
+Have any doubt related to career in tech, or anything else in general?
+
+Feel free to ask :)
+
+I will try to either get back to you on mail, or write a blog or post a YouTube video on that topic.
+
+To ask your question, you can [create an issue on this repo](https://github.com/MadhavBahl/slides/issues/new) or directly ask me on this form - https://madhavbahl.tech/ask
+
+## Get in touch with me
+
+**LinkedIn** - [https://www.linkedin.com/in/madhavbahl/](https://www.linkedin.com/in/madhavbahl/)
+
+**Instagram** - [https://instagram.com/theleanprogrammer](https://instagram.com/theleanprogrammer)
+
+**Medium** - [https://medium.com/@madhavbahl](https://medium.com/@madhavbahl)
+
+**Twitter** - [https://twitter.com/MadhavBahlMD](https://twitter.com/MadhavBahlMD)
+
+**Facebook** - [https://facebook.com/CadetWhoCodes](https://facebook.com/CadetWhoCodes)
+
