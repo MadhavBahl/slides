@@ -30,6 +30,7 @@
 | 3      | How do I motivate myself to start competitive programming | [https://www.youtube.com/watch?v=GCxwzy9MaY8](https://www.youtube.com/watch?v=GCxwzy9MaY8) | [https://madhavbahl.tech/slides/3](https://madhavbahl.tech/slides/3) |
 | 4      | How do I get started with data structures, algorithms, problem solving and competitive programming | [https://www.youtube.com/watch?v=dw2Kdm9YJ-E](https://www.youtube.com/watch?v=dw2Kdm9YJ-E) | [https://madhavbahl.tech/slides/4](https://madhavbahl.tech/slides/4) |
 | 5      | 8 Simple tips to improve your GitHub profile | [https://www.youtube.com/watch?v=4LGF4UhMaSU](https://www.youtube.com/watch?v=4LGF4UhMaSU) | [https://madhavbahl.tech/slides/5/](https://madhavbahl.tech/slides/5/) |
+| 6      | Which programming language is best for competitive programming and coding interviews | The Java vs C++ myth | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 
 ## Want to ask a question?
 
