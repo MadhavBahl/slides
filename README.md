@@ -8,7 +8,7 @@
     In this repository you can find my presentations from my talks, presentations, webinars and YouTube videos (Do give it a star if you like them)
 </p
 
-<a style="margin: 0" href="youtube.com/TheLeanProgrammer?sub_confirmation=1"><img src="./yt_flag.png" alt="YouTube: youtube.com/TheLeanProgrammer?sub_confirmation=1"></a>
+[![YouTube](./yt_flag.png)](https://youtube.com/TheLeanProgrammer?sub_confirmation=1)
 
 ***
 
@@ -28,5 +28,29 @@
 | 1      | How to find project/issue for your next open source contribution | [https://www.youtube.com/watch?v=M37iyGdIJgI](https://www.youtube.com/watch?v=M37iyGdIJgI) | [http://madhavbahl.tech/find-opensource-work/](http://madhavbahl.tech/find-opensource-work/) |
 | 2      | How to approach any coding problem/5 steps you should take while solving any coding problem | [https://www.youtube.com/watch?v=0OQtLP3Q-PE](https://www.youtube.com/watch?v=0OQtLP3Q-PE) | [https://madhavbahl.tech/slides/2](https://madhavbahl.tech/slides/2) |
 | 3      | How do I motivate myself to start competitive programming | [https://www.youtube.com/watch?v=GCxwzy9MaY8](https://www.youtube.com/watch?v=GCxwzy9MaY8) | [https://madhavbahl.tech/slides/3](https://madhavbahl.tech/slides/3) |
-| 4      | How do I get started with data structures, algorithms, problem solving and competitive programming | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
+| 4      | How do I get started with data structures, algorithms, problem solving and competitive programming | [https://www.youtube.com/watch?v=dw2Kdm9YJ-E](https://www.youtube.com/watch?v=dw2Kdm9YJ-E) | [https://madhavbahl.tech/slides/4](https://madhavbahl.tech/slides/4) |
 | 5      | 8 Simple tips to improve your GitHub profile | [https://www.youtube.com/watch?v=4LGF4UhMaSU](https://www.youtube.com/watch?v=4LGF4UhMaSU) | [https://madhavbahl.tech/slides/5/](https://madhavbahl.tech/slides/5/) |
+| 6      | Which programming language is best for competitive programming and coding interviews \| The Java vs C++ myth | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
+
+## Want to ask a question?
+
+Have any doubt related to career in tech, or anything else in general?
+
+Feel free to ask :)
+
+I will try to either get back to you on mail, or write a blog or post a YouTube video on that topic.
+
+To ask your question, you can [create an issue on this repo](https://github.com/MadhavBahl/slides/issues/new) or directly ask me on this form - https://madhavbahl.tech/ask
+
+## Get in touch with me
+
+**LinkedIn** - [https://www.linkedin.com/in/madhavbahl/](https://www.linkedin.com/in/madhavbahl/)
+
+**Instagram** - [https://instagram.com/theleanprogrammer](https://instagram.com/theleanprogrammer)
+
+**Medium** - [https://medium.com/@madhavbahl](https://medium.com/@madhavbahl)
+
+**Twitter** - [https://twitter.com/MadhavBahlMD](https://twitter.com/MadhavBahlMD)
+
+**Facebook** - [https://facebook.com/CadetWhoCodes](https://facebook.com/CadetWhoCodes)
+
