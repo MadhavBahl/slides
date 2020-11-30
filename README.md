@@ -32,7 +32,7 @@
 | 5      | 8 Simple tips to improve your GitHub profile | [https://www.youtube.com/watch?v=4LGF4UhMaSU](https://www.youtube.com/watch?v=4LGF4UhMaSU) | [https://madhavbahl.tech/slides/5/](https://madhavbahl.tech/slides/5/) |
 | 6      | Which programming language is best for competitive programming and coding interviews \| The Java vs C++ myth | [https://www.youtube.com/watch?v=Ht_VdF5GIBI](https://www.youtube.com/watch?v=Ht_VdF5GIBI) | [http://madhavbahl.tech/slides/6](http://madhavbahl.tech/slides/6) |
 | 7      | 7 Tips for competitive programmers \| What to do when you aren't able to solve coding questions | [https://www.youtube.com/watch?v=patIzWIC3OE](https://www.youtube.com/watch?v=patIzWIC3OE) | [http://madhavbahl.tech/slides/7](http://madhavbahl.tech/slides/7) |
-| 8      | 10 Mistakes that new Software Developers do | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
+| 8      | Don't Do These Mistakes As A Software Developer \| 10 Tips for All Software Developers and Students | [https://www.youtube.com/watch?v=Hj9TziFK0bU](https://www.youtube.com/watch?v=Hj9TziFK0bU) | [https://madhavbahl.tech/slides/8](https://madhavbahl.tech/slides/8) |
 
 ## Want to ask a question?
 
