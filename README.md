@@ -35,6 +35,35 @@
 | 8      | Don't Do These Mistakes As A Software Developer \| 10 Tips for All Software Developers and Students | [https://www.youtube.com/watch?v=Hj9TziFK0bU](https://www.youtube.com/watch?v=Hj9TziFK0bU) | [https://madhavbahl.tech/slides/8](https://madhavbahl.tech/slides/8) |
 | 9      | How to say "NO" without hurting/alienating others | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 
+## Learning Series/Courses
+
+I have created/will be creating the following courses/tutorials/learning series on my YouTube channel -
+
+1. Being-Better
+2. AAM (Mango) 
+3. Practical ReactJS Tutorial
+
+And many more...
+
+## Series 1 - Being-Better
+
+Weekly videos on simple practices, tips and hacks that related to personal/professional growth, productivity, effectiveness, and self-help which you can start following immediately to be a better version of yourself, daily.
+
+Find out the videos here -
+
+| S.No   |      Topic      | Description |  YouTube link  |
+|--------|-----------------|--------------------|---------------|
+| 1      | How to say "NO" without hurting/alienating others | It's obvious that we can't say yes to everything that comes to us, if we do that we would be wasting our own time, [follow these 3 simple steps to learn how can you say "NO" without hurting/alienating others.](https://madhavbahl.medium.com/) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
+| 2      | How to increase your credibility no matter what you do | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
+
+## Series 2 - AAM (Mango)
+
+Coming soon...
+
+## Series 3 - Practical ReactJS Tutorial
+
+Practical React JS learning series, coming soon...
+
 ## Want to ask a question?
 
 Have any doubt related to career in tech, or anything else in general?
