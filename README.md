@@ -33,7 +33,6 @@
 | 6      | Which programming language is best for competitive programming and coding interviews \| The Java vs C++ myth | [https://www.youtube.com/watch?v=Ht_VdF5GIBI](https://www.youtube.com/watch?v=Ht_VdF5GIBI) | [http://madhavbahl.tech/slides/6](http://madhavbahl.tech/slides/6) |
 | 7      | 7 Tips for competitive programmers \| What to do when you aren't able to solve coding questions | [https://www.youtube.com/watch?v=patIzWIC3OE](https://www.youtube.com/watch?v=patIzWIC3OE) | [http://madhavbahl.tech/slides/7](http://madhavbahl.tech/slides/7) |
 | 8      | Don't Do These Mistakes As A Software Developer \| 10 Tips for All Software Developers and Students | [https://www.youtube.com/watch?v=Hj9TziFK0bU](https://www.youtube.com/watch?v=Hj9TziFK0bU) | [https://madhavbahl.tech/slides/8](https://madhavbahl.tech/slides/8) |
-| 9      | How to say "NO" without hurting/alienating others | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 
 ## Learning Series/Courses
 
@@ -45,7 +44,7 @@ I have created/will be creating the following courses/tutorials/learning series 
 
 And many more...
 
-## Series 1 - Being-Better
+### Series 1 - Being-Better
 
 Weekly videos on simple practices, tips and hacks that related to personal/professional growth, productivity, effectiveness, and self-help which you can start following immediately to be a better version of yourself, daily.
 
@@ -56,11 +55,11 @@ Find out the videos here -
 | 1      | How to say "NO" without hurting/alienating others | It's obvious that we can't say yes to everything that comes to us, if we do that we would be wasting our own time, [follow these 3 simple steps to learn how can you say "NO" without hurting/alienating others.](https://madhavbahl.medium.com/) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 | 2      | How to increase your credibility no matter what you do | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 
-## Series 2 - AAM (Mango)
+### Series 2 - AAM (Mango)
 
 Coming soon...
 
-## Series 3 - Practical ReactJS Tutorial
+### Series 3 - Practical ReactJS Tutorial
 
 Practical React JS learning series, coming soon...
 
