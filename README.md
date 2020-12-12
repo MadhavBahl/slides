@@ -39,7 +39,7 @@
 I have created/will be creating the following courses/tutorials/learning series on my YouTube channel -
 
 1. Being-Better
-2. AAM (Mango) 
+2. AAM (🥭) 
 3. Practical ReactJS Tutorial
 
 And many more...
@@ -55,7 +55,7 @@ Find out the videos here -
 | 1      | How to say "NO" without hurting/alienating others | It's obvious that we can't say yes to everything that comes to us, if we do that we would be wasting our own time, [follow these 3 simple steps to learn how can you say "NO" without hurting/alienating others.](https://madhavbahl.medium.com/) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 | 2      | How to increase your credibility no matter what you do | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 
-### Series 2 - AAM (Mango)
+### Series 2 - AAM (An App a Month 🥭)
 
 Coming soon...
 
