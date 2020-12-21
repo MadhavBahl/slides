@@ -54,7 +54,7 @@ Find out the videos here -
 | S.No   |      Topic      | Description |  YouTube link  |
 |--------|-----------------|--------------------|---------------|
 | 1      | How to say "NO" without hurting/alienating others | It's obvious that we can't say yes to everything that comes to us, if we do that we would be wasting our own time, [follow these 3 simple steps to learn how can you say "NO" without hurting/alienating others.](https://madhavbahl.medium.com/) | [https://www.youtube.com/watch?v=wgjioLGEDLQ](https://www.youtube.com/watch?v=wgjioLGEDLQ) |
-| 2      | How to increase your network or ask for help \| Step by step tips on how to reach out | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
+| 2      | How to increase your network or ask for help \| Step by step tips on how to reach out | [https://madhavbahl.tech/slides/beingbetter/2](https://madhavbahl.tech/slides/beingbetter/2) | [https://www.youtube.com/watch?v=HPpI_gLZYFI](https://www.youtube.com/watch?v=HPpI_gLZYFI) |
 | 3      | How to increase your credibility no matter what you do | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 
 ### Series 2 - AAM (An App a Month 🥭)
