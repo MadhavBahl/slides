@@ -33,8 +33,8 @@
 | 6      | Which programming language is best for competitive programming and coding interviews \| The Java vs C++ myth | [https://www.youtube.com/watch?v=Ht_VdF5GIBI](https://www.youtube.com/watch?v=Ht_VdF5GIBI) | [http://madhavbahl.tech/slides/6](http://madhavbahl.tech/slides/6) |
 | 7      | 7 Tips for competitive programmers \| What to do when you aren't able to solve coding questions | [https://www.youtube.com/watch?v=patIzWIC3OE](https://www.youtube.com/watch?v=patIzWIC3OE) | [http://madhavbahl.tech/slides/7](http://madhavbahl.tech/slides/7) |
 | 8      | Don't Do These Mistakes As A Software Developer \| 10 Tips for All Software Developers and Students | [https://www.youtube.com/watch?v=Hj9TziFK0bU](https://www.youtube.com/watch?v=Hj9TziFK0bU) | [https://madhavbahl.tech/slides/8](https://madhavbahl.tech/slides/8) |
-| 9      | 3 Pieces of advice to computer science undergrads | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [https://madhavbahl.tech/slides/9](https://madhavbahl.tech/slides/9) |
-| 10      | 27+ Free Resources for Designers and Frontend Developers | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [https://madhavbahl.tech/slides/9](https://madhavbahl.tech/slides/10) |
+| 9      | 3 Pieces of advice to computer science undergrads | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
+| 10      | 27+ Free Resources for Designers and Frontend Developers | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 
 ## Learning Series/Courses
 
@@ -58,6 +58,7 @@ Find out the videos here -
 | 2      | How to increase your network or ask for help \| Step by step tips on how to reach out | [https://madhavbahl.tech/slides/beingbetter/2](https://madhavbahl.tech/slides/beingbetter/2) | [https://www.youtube.com/watch?v=HPpI_gLZYFI](https://www.youtube.com/watch?v=HPpI_gLZYFI) |
 | 3      | Need to be online and the 11 Secrets for social media growth | [https://www.youtube.com/watch?v=s3AM2WQbnK4](https://www.youtube.com/watch?v=s3AM2WQbnK4) | [https://madhavbahl.tech/slides/beingbetter/3](https://madhavbahl.tech/slides/beingbetter/3) |
 | 4      | 5 Steps For Achieving Your Ambitions | All of us have some dreams and ambitions that we want to make true while we are alive, but most of us make one big mistake, we confuse our dreams and ambitions with “goals”. <br> Remember, it's not only about making goals, it’s also about the alignment of goals, and reaching them in lesser time. <br> [Let me teach you the 5 steps that you can take to achieve your ambitions](https://madhavbahl.medium.com/five-steps-for-achieving-almost-any-ambition-c582728178bc) | [https://www.youtube.com/watch?v=lW9FVNc8P9k](https://www.youtube.com/watch?v=lW9FVNc8P9k) |
+| 5      | How to deal with criticism and grow using feedback | No matter what you do, there will be people who will dislike you for no reason. Then, what’s the solution? [Check out the ways in which I deal with criticism](https://medium.com/learn-with-the-lean-programmer/this-story-changed-the-way-i-used-to-look-at-critics-312f1619d16e) | [https://www.youtube.com/watch?v=VjIGoiaSSbA](https://www.youtube.com/watch?v=VjIGoiaSSbA) |
 
 ### Series 2 - AAM (An App a Month 🥭)
 
