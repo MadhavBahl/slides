@@ -35,6 +35,7 @@
 | 8      | Don't Do These Mistakes As A Software Developer \| 10 Tips for All Software Developers and Students | [https://www.youtube.com/watch?v=Hj9TziFK0bU](https://www.youtube.com/watch?v=Hj9TziFK0bU) | [https://madhavbahl.tech/slides/8](https://madhavbahl.tech/slides/8) |
 | 9      | 3 Pieces of advice to computer science undergrads | [https://www.youtube.com/watch?v=06ZvwAN9BQ0](https://www.youtube.com/watch?v=06ZvwAN9BQ0) | [Coming Soon...](https://www.youtube.com/TheLeanProgrammer?sub_confirmation=1) |
 | 10      | Dont make these 8 mistakes in the early stages of your career 🚫 | [https://www.youtube.com/watch?v=skEjScMVXL4](https://www.youtube.com/watch?v=skEjScMVXL4) | [No Slides](https://www.youtube.com/watch?v=skEjScMVXL4) |
+| 11      | Dont make this mistake in your life or career 🙅‍♂️ | [https://www.youtube.com/watch?v=qIP-ljy0ShE](https://www.youtube.com/watch?v=qIP-ljy0ShE) | [No Slides](https://www.youtube.com/watch?v=qIP-ljy0ShE) |
 
 ## Learning Series/Courses
 
