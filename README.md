@@ -42,7 +42,7 @@
 I have created/will be creating the following courses/tutorials/learning series on my YouTube channel -
 
 1. Being-Better
-2. AAM (🥭) 
+2. AAM (🥭)
 3. Practical ReactJS Tutorial
 
 And many more...
@@ -65,7 +65,15 @@ Find out the videos here -
 
 ### Series 2 - AAM (An App a Month 🥭)
 
-Coming soon...
+Find out the videos here -
+
+| S.No   |      Topic      |  YouTube link                                                                          |
+|--------|-----------------|----------------------------------------------------------------------------------------|
+| 1      | Project 1       |  https://www.youtube.com/playlist?list=PLGyA74h_S9NqJvvQ7-l9bUHHS6bMCkgo0              |
+| 2      | Project 2       |  https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY              |
+| 3      | Project 3       |  https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY              |
+| 4      | Project 4       |  https://www.youtube.com/playlist?list=PLGyA74h_S9NrjM7mUiSmpKfUntwEcgMB3              |
+| 5      | Project 5       |  https://www.youtube.com/playlist?list=PLGyA74h_S9Nq-rRLG5pqEiaJ87H22S3BW              |
 
 ### Series 3 - Practical ReactJS Tutorial
 
@@ -92,4 +100,3 @@ To ask your question, you can [create an issue on this repo](https://github.com/
 **Twitter** - [https://twitter.com/MadhavBahlMD](https://twitter.com/MadhavBahlMD)
 
 **Facebook** - [https://facebook.com/CadetWhoCodes](https://facebook.com/CadetWhoCodes)
-
