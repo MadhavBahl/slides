@@ -65,7 +65,15 @@ Find out the videos here -
 
 ### Series 2 - AAM (An App a Month 🥭)
 
-Coming soon...
+Find out the videos here -
+
+| S.No   |      Topic      |  YouTube link                                                                          |
+|--------|-----------------|----------------------------------------------------------------------------------------|
+| 1      | Mega React Tutorial - Project #1: Understanding the Basics |  https://www.youtube.com/playlist?list=PLGyA74h_S9NqJvvQ7-l9bUHHS6bMCkgo0              |
+| 2      | Mega React Tutorial - Project #2: Revisiting the Basics and more |  https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY              |
+| 3      | The Complete CSS Flexbox Tutorial \| Lean Flexbox for FREE |  https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY              |
+| 4      | Learn React and TypeScript \| Mega React Tutorial - Project #3: The Pokedex App |  https://www.youtube.com/playlist?list=PLGyA74h_S9NrjM7mUiSmpKfUntwEcgMB3              |
+| 5      | Build your own Portfolio website from scratch \| React Mega Tutorial - Part 4 |  https://www.youtube.com/playlist?list=PLGyA74h_S9Nq-rRLG5pqEiaJ87H22S3BW              |
 
 ### Series 3 - Practical ReactJS Tutorial
 
@@ -92,4 +100,3 @@ To ask your question, you can [create an issue on this repo](https://github.com/
 **Twitter** - [https://twitter.com/MadhavBahlMD](https://twitter.com/MadhavBahlMD)
 
 **Facebook** - [https://facebook.com/CadetWhoCodes](https://facebook.com/CadetWhoCodes)
-
