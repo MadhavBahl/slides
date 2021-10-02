@@ -42,7 +42,7 @@
 I have created/will be creating the following courses/tutorials/learning series on my YouTube channel -
 
 1. Being-Better
-2. AAM (🥭)
+2. AAM (🥭) 
 3. Practical ReactJS Tutorial
 
 And many more...
